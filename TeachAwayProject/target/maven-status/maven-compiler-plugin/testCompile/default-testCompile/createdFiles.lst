@@ -1,0 +1,5 @@
+pageObjects\HomePageObjects.class
+utils\GenericMethods.class
+functionalTestCases\HomePageTests.class
+resources\TestData.class
+functionalTestCases\BaseTest.class
