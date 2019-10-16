@@ -18,3 +18,7 @@ In terms of my test cases for verifying the menu bar, I have run the following h
 - Assert presence of tabs and buttons in header
 - Assertion on the URL of header tabs and buttons
 Note: We could assert the status code for the URL after login as of now it is giving 403.
+
+Run Test:
+Import the project in eclipse
+Open HomePageTests class present in src/test/java/functionalTestCases, right click > Run As > Testng Test
